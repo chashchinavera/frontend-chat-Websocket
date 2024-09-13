@@ -3,3 +3,9 @@
 
 /*app*/
 @import url(./styles/app.css);
+
+/*Main*/
+@import url(./styles/main.css);
+
+/*Chat*/
+@import url(./styles/chat.css);
