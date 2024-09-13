@@ -1,11 +1,14 @@
+/*fonts*/
+@import url(./vendor/fonts/fonts.css);
+
 /*body*/
 @import url(./styles/body.css);
 
 /*app*/
 @import url(./styles/app.css);
 
-/*Main*/
+/*main*/
 @import url(./styles/main.css);
 
-/*Chat*/
+/*chat*/
 @import url(./styles/chat.css);
