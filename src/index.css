@@ -1,2 +1,5 @@
+/*fonts*/
+@import url(./vendor/fonts/fonts.css);
+
 /*body*/
 @import url(./vendor/body/body.css);
