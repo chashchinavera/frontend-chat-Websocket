@@ -3,3 +3,6 @@
 
 /*body*/
 @import url(./vendor/body/body.css);
+
+/*Main*/
+@import url(./components/Main/Main.css);
